@@ -100,7 +100,7 @@ def policy_action(policy, observation):
     return action
 ```
 
-- The action must be one of: `0` (do nothing), `1` (fire left), `2` (fire main engine), or `3` (fire right).
+- The action must be one of: `0` (do nothing), `1` (fire left), `2` (fire main engine), or `3` (fire right). 
 
 ---
 
